@@ -1,4 +1,4 @@
-# State Bangladesh Society - Application Portal
+# Dost Aid Bangladesh Society - Application Portal
 
 A comprehensive web application for managing project applications with automated PDF generation and email notifications.
 
